@@ -3,6 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Emilio5639/ActiveDirectoryLab/blob/main/README.md)
+- [Vulnerability Management Lab](https://github.com/Emilio5639/VulnerabilityManagementLab/blob/main/README.md)
+- [File Integrity Monitior Project ](https://github.com/Emilio5639/FileIntegrityMonitiorProject/blob/main/README.md)
+- [SIEM in AZURE](https://github.com/Emilio5639/SIEMinAzure/blob/main/README.md)
+- [Rest API](https://github.com/Emilio5639/RestAPI/blob/main/README.md)
+
  
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -26,14 +31,4 @@
 <!--
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
